@@ -105,4 +105,4 @@ Skill-gap report is generated
 
 Learning roadmap is suggested
 
-
+show scores based on the skills, JD, other sksills
